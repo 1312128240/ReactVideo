@@ -19,7 +19,6 @@
     "react-native-safe-area-context": "^0.6.2",
     "react-native-screens": "^2.0.0-alpha.32",
     "react-native-slider": "^0.11.0",
-    "react-native-storage": "^1.0.1",
     "react-native-video": "^5.0.2",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^2.0.16",
