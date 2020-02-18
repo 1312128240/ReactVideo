@@ -44,6 +44,8 @@ target 'ReactVideo' do
 
   pod 'RNFS', :path => '../node_modules/react-native-fs'
 
+  pod 'react-native-orientation', :path => '../node_modules/react-native-orientation'
+
   target 'ReactVideoTests' do
     inherit! :search_paths
     # Pods for testing
